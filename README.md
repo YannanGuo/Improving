@@ -2,6 +2,7 @@
 
 ## The following is the content of R learning note file:
 * **Tricks in R** is the note collecting some useful R codes.
+* **Code improvement** is the note showing the code improvement.
 
 ## The following is the content of Gene Differential Expression analysis learning file:
 
